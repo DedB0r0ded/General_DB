@@ -19,7 +19,7 @@ There are 19 tables currently in the project.
 Foreign and primary keys are described using constraints.
 
 > [!WARNING]
-> Tables must be created in the following order:
+> Scripts from `tables` directory must be executed in the folowing order:
 > 1. `user `
 > 2. `task`
 > 3. `bank`
