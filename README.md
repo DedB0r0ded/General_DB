@@ -19,25 +19,25 @@ Foreign and primary keys are described using constraints.
 
 > [!WARNING]
 > Tables CREATE statements must be run in the following order:
-> - user 
-> - task
-> - bank
-> - organisation
-> - reg_key
-> - reg_key_privileges
-> - report
-> - manufacturer_code
-> - manufacturer
-> - g_facility
-> - g_component
-> - g_item
-> - g_service
-> - organisation_service
-> - date_info
-> - contract
-> - contract_service
-> - contract_mnt_item
-> - review
+> 1. user 
+> 2. task
+> 3. bank
+> 4. organisation
+> 5. reg_key
+> 6. reg_key_privileges
+> 7. report
+> 8. manufacturer_code
+> 9. manufacturer
+> 10. g_facility
+> 11. g_component
+> 12. g_item
+> 13. g_service
+> 14. organisation_service
+> 15. date_info
+> 16. contract
+> 17. contract_service
+> 18. contract_mnt_item
+> 19. review
 
 ## Triggers
 ## Users
