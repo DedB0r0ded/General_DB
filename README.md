@@ -6,6 +6,7 @@ Contains the following directories:
 - [tables](#tables)
 - [triggers](triggers)
 - [users](#users)
+- [views](#views)
 
 ## Functions
 ## Grant
