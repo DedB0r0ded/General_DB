@@ -42,3 +42,4 @@ Foreign and primary keys are described using constraints.
 
 ## Triggers
 ## Users
+## Views
